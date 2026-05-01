@@ -8,6 +8,7 @@ public class pattern {
         System.out.println(ch + ch + ch);
         System.out.println(ch + ch);
         System.out.println(ch);
+        sc.close();
     }
 }
-    
+     
